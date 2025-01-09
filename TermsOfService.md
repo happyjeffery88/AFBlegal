@@ -4,16 +4,17 @@ Effective Date: [January 9th 2025]
 Asian Farming Bank (referred to as "the Bot"). By inviting or using the Bot in any Discord server or direct messages, you agree to these Terms and Conditions (the "Terms"). Please read them carefully. 
 If you do not agree, refrain from using this application.
 
-1. About these Terms of Service
+# About these Terms of Service
 Asian Farming Bank is a Discord bot designed to be a simulation that is integrated within Discord. These Terms govern your access to and use of the Bot and its services.
 By using the Bot, you agree to comply with these Terms, as well as Discord's Terms of Service and Community Guidelines.
 
-2. Eligibility
+# Eligibility
 To use Asian Farming Bank, you must:
-  Be at least 13 years old (or meet Discord's minimum age requirements in your region).
-  Have the necessary permissions to invite and use bots in the Discord servers you manage.
+  - Be at least 13 years old (or meet Discord's minimum age requirements in your region).
+  - Follow Discord TOS statement
+  - Have the necessary permissions to invite and use bots in the Discord servers you manage.
 
-3. Acceptable Use
+# Acceptable Use
 When using Asian Farming Bank, you agree to:
 Use the Bot only for its intended purposes
 
@@ -29,7 +30,7 @@ Failure to comply with these guidelines may result in suspension or termination 
   - Immediate termination or restriction of access to the Bot without notice.
   - Seeking injunctive relief or other legal remedies to prevent further violations.
 
-4. Intellectual Property and Legal Action
+# Intellectual Property and Legal Action
 All code, features, designs, and intellectual property associated with Asian Farming Bank are the sole property of its developers. You are prohibited from:
   - Reproducing, copying, or redistributing any part of the Bot's code or functionality.
   - Creating derivative works or similar bots based on Asian Farming Bank without explicit written permission.
@@ -41,28 +42,31 @@ Any unauthorized reproduction, copying, or reverse engineering of the Bot's code
 
 **We reserve the right to take necessary legal action against any individual or entity violating our intellectual property rights.**
 
-5. User-Generated Content
+# User-Generated Content
 When interacting with the Bot, you may provide user-generated content (e.g., commands, messages). By using the Bot:
   - You grant us a non-exclusive, royalty-free license to process and log such content to provide and improve the Bot's services.
   - You agree that you are solely responsible for any content submitted and that it complies with Discord's and our policies.
 
-6. Data Collection and Privacy
+# Data Collection and Privacy
 Asian Farming Bank collects and processes limited user data as described in our Privacy Policy. This data includes, but is not limited to:
   - Discord User IDs, Server IDs, and messages required for the Bot’s functionality.
   - Usage logs, such as command inputs and error reports.
   - We do not sell or share user data with third parties, except where required by law or necessary for the Bot's operation.
 
-8. Liability Disclaimer
+# Liability Disclaimer
 The Bot is provided "as is" and "as available." While we strive to ensure reliable performance, we do not guarantee that:
   - The Bot will be error-free or uninterrupted.
   - The Bot will meet your specific expectations or requirements.
   - To the fullest extent permitted by law, we disclaim all liability for damages arising from the use of the Bot.
 
-9. Modifications and Updates
-We may modify these Terms and the Bot’s functionality at any time without prior notice. Any updates to the Terms will be posted at https://discord.gg/fAphPbSqKE. 
+# Modifications and Updates
+We may modify these Terms and the Bot’s functionality at any time without prior notice. Any updates to the Terms will be posted at:     
+  - https://discord.gg/fAphPbSqKE which is the community servver
+  - Update logs
+  - Bot Alerts
 Continued use of the Bot constitutes acceptance of any changes.
 
-10. Termination
+# Termination
 We reserve the right to suspend or terminate your access to Asian Farming Bank for:
   - Violating these Terms or Discord’s policies.
   - Misusing the Bot or engaging in harmful activities.
@@ -75,7 +79,7 @@ Termination may occur without prior notice at our discretion. In cases of severe
 
 Your continued use of the Bot signifies your agreement to these Terms, including the potential for legal consequences in the event of a violation.
 
-12. Contact Information
+# Contact Information
 For questions, concerns, or support, contact us at:
 
 Email: afbotdev@gmail.com
