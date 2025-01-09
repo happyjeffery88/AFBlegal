@@ -29,8 +29,8 @@ All code, features, designs, and intellectual property associated with Asian Far
   Reproducing, copying, or redistributing any part of the Bot's code or functionality.
   Creating derivative works or similar bots based on Asian Farming Bank without explicit written permission.
 
-Legal Actions:
-  Any unauthorized reproduction, copying, or reverse engineering of the Bot's code or features may result in legal action, including but not limited to:
+  Legal Actions:
+  Any unauthorized reproduction, copying, or reverse engineering of the Bot's code or features may result in legal action, including but not   limited to:
   Issuance of a cease and desist letter.
   Filing of a lawsuit for damages, injunctive relief, and attorney fees.
   We reserve the right to take necessary legal action against any individual or entity violating our intellectual property rights.
