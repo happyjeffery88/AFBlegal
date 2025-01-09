@@ -60,11 +60,11 @@ The Bot is provided "as is" and "as available." While we strive to ensure reliab
   - To the fullest extent permitted by law, we disclaim all liability for damages arising from the use of the Bot.
 
 # Modifications and Updates
-We may modify these Terms and the Bot’s functionality at any time without prior notice. Any updates to the Terms will be posted at:     
-  - https://discord.gg/fAphPbSqKE which is the community servver
+We reserve the right to modify these Terms and the functionality of the Bot at any time without prior notice. Updates to the Terms will be communicated through the following channels:
+  - The official community server: https://discord.gg/fAphPbSqKE
   - Update logs
-  - Bot Alerts
-Continued use of the Bot constitutes acceptance of any changes.
+  - Bot alerts
+By continuing to use the Bot after changes are made, you acknowledge and accept the updated Terms.
 
 # Termination
 We reserve the right to suspend or terminate your access to Asian Farming Bank for:
