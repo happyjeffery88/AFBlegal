@@ -18,11 +18,11 @@ When using Asian Farming Bank, you agree to:
 Use the Bot only for its intended purposes
 
 Not engage in prohibited activities, including but not limited to:
-  Spamming or overloading the Bot with excessive requests.
-  Using the Bot for any illegal, harmful, or disruptive purposes.
-  Exploiting or attempting to exploit vulnerabilities in the Bot.
-  Violating intellectual property rights by copying or reverse-engineering the Bot's code or features.
-  Failure to comply with these guidelines may result in suspension or termination of your access to the Bot and potential legal action.
+  - Spamming or overloading the Bot with excessive requests.
+  - Using the Bot for any illegal, harmful, or disruptive purposes.
+  - Exploiting or attempting to exploit vulnerabilities in the Bot.
+  - Violating intellectual property rights by copying or reverse-engineering the Bot's code or features.
+Failure to comply with these guidelines may result in suspension or termination of your access to the Bot and potential legal action.
 
 4. Intellectual Property and Legal Action
 All code, features, designs, and intellectual property associated with Asian Farming Bank are the sole property of its developers. You are prohibited from:
