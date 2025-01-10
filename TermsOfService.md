@@ -87,4 +87,5 @@ You are solely responsible for maintaining the security and confidentiality of y
 For questions, concerns or support contact us at:
 
 Email: afbotdev@gmail.com
+
 Discord Support & Community Server: https://discord.gg/fAphPbSqKE
