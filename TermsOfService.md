@@ -12,12 +12,11 @@ The name "Asian Farming Bank" is thematic and inspired by cultural and aesthetic
 # Eligibility
 To use Asian Farming Bank, you must:
   - Be at least 13 years old (or meet Discord's minimum age requirements in your region).
-  - Follow Discord TOS statement
+  - Follow Discord TOS statement.
   - Have the necessary permissions to invite and use bots in the Discord servers you manage.
 
 # Acceptable Use
-When using Asian Farming Bank, you agree to:
-Use the Bot only for its intended purposes
+When using Asian Farming Bank, you agree to use the Bot only for its intended purposes:
 
 Not engage in prohibited activities, including but not limited to:
   - Spamming or overloading the Bot with excessive requests.
@@ -72,7 +71,7 @@ We reserve the right to suspend or terminate your access to Asian Farming Bank f
   - Violating these Terms or Discord’s policies.
   - Misusing the Bot or engaging in harmful activities.
   - Actions that compromise the integrity, security, or operation of the Bot.
-  - Upon your request for account deletion
+  - Upon your request for account deletion.
 
 Termination may occur without prior notice at our discretion. In cases of severe or repeated violations, we reserve the right to pursue formal **legal action** against the offending party. Legal actions may include, but are not limited to:
   - Filing a lawsuit for damages caused.
@@ -85,7 +84,7 @@ Account Responsibility:
 You are solely responsible for maintaining the security and confidentiality of your Discord account and any actions taken using the Bot through your account. Any misuse or violation of these Terms committed through your account, whether by you or someone else, will be deemed your responsibility. We recommend securing your account by 2FA to prevent unauthorized access.
 
 # Contact Information
-For questions, concerns, or support, contact us at:
+For questions, concerns or support contact us at:
 
 Email: afbotdev@gmail.com
 Discord Support & Community Server: https://discord.gg/fAphPbSqKE
