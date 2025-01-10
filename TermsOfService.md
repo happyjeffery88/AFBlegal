@@ -1,5 +1,5 @@
 ## Terms of Service for Asian Farming Bank
-Effective Date: January 9th 2025
+Effective Date: January 10th 2025
 
 Asian Farming Bank is a bot designed to be a simulation that is integrated within Discord.  By inviting and using Asian Farming Bank (referred to as "the bot"), you agree to comply with and be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, you must discontinue use of the bot immediately. 
 
@@ -80,6 +80,9 @@ Termination may occur without prior notice at our discretion. In cases of severe
   - Seeking injunctive relief or other legal remedies in court to protect our rights and the Bot's integrity.
 
 Your continued use of the Bot signifies your agreement to these Terms, including the potential for legal consequences in the event of a violation.
+
+Account Responsibility:
+You are solely responsible for maintaining the security and confidentiality of your Discord account and any actions taken using the Bot through your account. Any misuse or violation of these Terms committed through your account, whether by you or someone else, will be deemed your responsibility. We recommend securing your account by 2FA to prevent unauthorized access.
 
 # Contact Information
 For questions, concerns, or support, contact us at:
