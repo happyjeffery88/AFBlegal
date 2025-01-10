@@ -6,6 +6,9 @@ Asian Farming Bank is a bot designed to be a simulation that is integrated withi
 # About these Terms of Service
 By adding, using, or interacting with the bot in any way, you acknowledge that you have read, understood, and agree to these Terms of Service as well as Discord's Terms of Service and Community Guidelines.. These Terms apply to all users of the bot, including developers, staff, administrators, individual members and users. 
 
+# Clarification on Bot Name and Theme:  
+The name "Asian Farming Bank" is thematic and inspired by cultural and aesthetic elements related to virtual farming and banking. It is not intended to target or exclude individuals of any ethnicity, nationality, or background. The Bot is open to all users who comply with these Terms and Discord’s policies.
+
 # Eligibility
 To use Asian Farming Bank, you must:
   - Be at least 13 years old (or meet Discord's minimum age requirements in your region).
