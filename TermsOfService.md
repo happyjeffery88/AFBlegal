@@ -71,6 +71,7 @@ We reserve the right to suspend or terminate your access to Asian Farming Bank f
   - Violating these Terms or Discord’s policies.
   - Misusing the Bot or engaging in harmful activities.
   - Actions that compromise the integrity, security, or operation of the Bot.
+  - Upon your request for account deletion
 
 Termination may occur without prior notice at our discretion. In cases of severe or repeated violations, we reserve the right to pursue formal **legal action** against the offending party. Legal actions may include, but are not limited to:
   - Filing a lawsuit for damages caused.
