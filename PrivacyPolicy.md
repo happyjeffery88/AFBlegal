@@ -50,6 +50,28 @@ We retain collected data only for as long as necessary to fulfill the purposes o
 ## Third-Party Services  
 Asian Farming Bank may integrate with third-party services (e.g., Discord). These services have their own privacy policies, and we encourage users to review them. We are not responsible for how third-party services handle user data.  
 
+## Staff Team Information
+
+In addition to the user data outlined above, **Asian Farming Bank** may collect limited personal information from members of its staff team for operational purposes. This includes but is not limited to:  
+  - Full name  
+  - Phone number  
+  - Email address  
+  - Other details necessary for administrative and team communication.  
+
+How We Handle Staff Information
+  - **Restricted Access**: Only the owner and authorized developers have access to this information.  
+  - **Secure Storage**: Personal details are stored securely and are not shared with third parties without explicit consent, except as required by law.  
+  - **Confidentiality**: We ensure all personal information is handled with the highest level of care and protection.  
+
+Purpose of Collection
+This information is collected and used exclusively for:  
+- Team coordination and communication.  
+- Verifying staff roles and responsibilities.  
+- Emergency contact or urgent notifications.  
+
+Data Retention for Staff
+Staff information is retained only for the duration of the individual's involvement with the team. Upon departure or resignation, personal details will be securely deleted unless retention is required by law or for specific operational purposes (e.g., audit logs).  
+
 ## Changes to This Policy  
 We may update this Privacy Policy periodically to reflect changes in the Bot or legal requirements. Updates will be communicated through Discord announcements and in-bot alerts. Continued use of the Bot after updates constitutes your acceptance of the revised policy.  
 
