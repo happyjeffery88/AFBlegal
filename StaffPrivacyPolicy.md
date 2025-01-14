@@ -33,7 +33,7 @@ It is your responsibility to provide accurate and truthful information. If incor
 We retain your information for the following purposes:
   - Temporary Data: Data used for evaluating your application will be deleted if your application is unsuccessful.
   - Permanent Data: Data related to server audits, moderation actions, and staff responsibilities may be retained for compliance or legal purposes.
-  - Retention Period: Data not required for long-term purposes will be deleted within [Insert Timeframe].
+  - Retention Period: Data not required for long-term purposes will be deleted within 6 months
 
 ## Security Measures
 We take data protection seriously and implement the following measures to protect your information:
