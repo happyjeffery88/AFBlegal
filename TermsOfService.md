@@ -6,7 +6,7 @@ Agro Farming is a bot designed to be a simulation that is integrated within Disc
 # About these Terms of Service  
 By adding, using, or interacting with the bot in any way, you acknowledge that you have read, understood, and agree to these Terms of Service as well as Discord's Terms of Service and Community Guidelines. These Terms apply to all users of the bot, including developers, staff, administrators, individual members, and users.  
 
-## Governing Law and Dispute Resolution
+# Governing Law and Dispute Resolution
 These Terms of Service are governed by the laws of Canada, Ontario. By using Agro Farming, you agree that any disputes arising from your use of the Bot shall be resolved in the courts of Canada, Ontario. You also agree to waive any objections to jurisdiction or venue in such courts.
 
 # Clarification on Bot Name and Theme  
